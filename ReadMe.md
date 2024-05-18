@@ -1,6 +1,20 @@
 # 💫 About Me:
-Busco uma posição na área de Engenharia de Computação, onde<br>possa aplicar e aprimorar meus conhecimentos técnicos e<br>habilidades em computação, gestão, trabalho em equipe, além de<br>poder adquirir experiência no mercado de trabalho. Sou<br>comprometido com o aprendizado contínuo e pretendo contribuir<br>ativamente em projetos, mantendo-me atualizado com as últimas<br>tendências tecnológicas.<br><br>Técnico em Mecatrônica (CEFET_MG)<br>Engenharia de Computação (CEFET_MG)<br><br>
+Since always, I have been interested in logic, science, mathematical, and analytical thinking. A medalist in scientific Olympiads, I earned an associate's degree in Mechatronics Technology from the Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), where I had contact with the three major areas: mechanics, electronics, and computing. In the latter, I identified more and decided to pursue it as a career.
 
+I'm currently pursuing a degree in Computer Engineering at the same institution. With half of my course completed, I've discovered a growing passion for programming and data analysis. I'm dedicated to enhancing my skills, seeking new opportunities, and expanding my knowledge and experiences in the field.
+
+Over time, I've honed my programming skills in languages like C, C++, Java, and SQL. I've utilized various tools and platforms such as Git, AWS multiple services, MySQL, Jira, Spring, Micronaut, and others. Additionally, my university education has equipped me with valuable soft skills, including agile methodologies, organization, communication, problem-solving, diligence, and teamwork.
+
+###################################################################################################
+
+Desde sempre, tenho me interessado por lógica, ciência, matemática e pensamento analítico. Medalhista em olimpíadas científicas, formei-me Técnico em Mecatrônica pelo Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), onde tive contato com as três principais áreas: mecânica, eletrônica e computação. Nesta última, me identifiquei mais e decidi segui-la como carreira. 
+
+Atualmente, estou cursando Engenharia de Computação na mesma instituição. Com metade do curso concluído, descobri uma crescente paixão pela programação e análise de dados. Estou dedicado a aprimorar minhas habilidades, buscar novas oportunidades e expandir meu conhecimento e experiência na área. 
+
+Ao longo do tempo, aprimorei minhas habilidades de programação em linguagens como C, C++, Java e SQL. Utilizei diversas ferramentas e plataformas, como Git, vários serviços da AWS, MySQL, Jira, Spring, Micronaut e outros. Além disso, minha educação universitária me proporcionou habilidades interpessoais valiosas, incluindo metodologias ágeis, organização, comunicação, resolução de problemas, diligência e trabalho em equipe. 
+
+Email: luizcarlossantosjunior2001@gmail.com 
+GitHub: https://github.com/LuizJr2001
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luiz_c.s.jr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-santos-b5605b2a8/) 
